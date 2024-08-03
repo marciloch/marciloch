@@ -1,5 +1,5 @@
 # Hi there 👋
-
+![Exemplo de GIF](https://media1tenor.com/m/apgtu-z9j1maaaad/funny-dogs-cute.gif)
 <!--
 **marciloch/marciloch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
